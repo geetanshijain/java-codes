@@ -17,6 +17,6 @@ public class countdigit {
 
         System.out.println("Total digits: " + count);
 
-    }
+    } 
 }
 }
